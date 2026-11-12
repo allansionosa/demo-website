@@ -1,0 +1,40 @@
+/* Only the imported booking flow uses Tailwind. No global preflight or theme reset. */
+@import "tailwindcss/theme.css" layer(theme) prefix(b);
+@import "tailwindcss/utilities.css" prefix(b) source(none);
+@source "./BookingFlow.tsx";
+@source "./schedule-step.tsx";
+
+@theme inline {
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--on-primary);
+  --color-border: var(--line);
+  --color-background: var(--surface);
+  --color-foreground: var(--ink);
+  --color-muted: var(--surface-raised);
+}
+
+.integrated-booking { --booking-surface: var(--background); min-height: 100vh; color: var(--ink); font-family: inherit; }
+.integrated-booking :where(button, input, select, textarea) { font: inherit; }
+.integrated-booking :where(button:not(:disabled), select, input[type="checkbox"]) { cursor: pointer; }
+.integrated-booking :where(input:not([type="checkbox"]), select, textarea) { font-size: .875rem; }
+.integrated-booking :where(button, input, select, textarea, a):focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; }
+.integrated-booking :where(p, h1, h2, h3, ol, ul) { margin: 0; }
+.integrated-booking :where(ol, ul) { padding: 0; list-style: none; }
+.integrated-booking :where(button) { border-style: solid; }
+.integrated-booking :where(svg) { flex-shrink: 0; }
+.booking-site-header { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 1rem max(1rem, calc((100vw - 1280px) / 2)); background: var(--surface); border-bottom: 1px solid var(--line); }
+.booking-site-header .brand { color: var(--primary); }
+.booking-site-header nav { display: flex; gap: 1.5rem; font-size: .875rem; }
+.booking-button { display: inline-flex; min-height: 44px; align-items: center; justify-content: center; gap: .5rem; padding: .6rem 1rem; border: 1px solid transparent; border-radius: 8px; font-size: .875rem; font-weight: 600; cursor: pointer; }
+.booking-button-default { background: var(--primary); color: var(--on-primary); }
+.booking-button-outline { background: var(--surface); border-color: var(--line); color: var(--ink); }
+.booking-button-ghost { background: transparent; color: var(--ink); }
+.booking-button:disabled { opacity: .55; cursor: default; }
+.booking-button svg { width: 16px; height: 16px; }
+.integrated-booking [hidden] { display: none; }
+/* 1280px canvas = flexible form + 24px gutter + 352px summary. */
+@media (max-width: 640px) {
+  .booking-site-header { padding: 1rem; }
+  .booking-site-header nav { gap: .75rem; font-size: .75rem; }
+  .integrated-booking h1 { font-size: 1.5rem; }
+}

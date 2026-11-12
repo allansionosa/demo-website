@@ -1,0 +1,294 @@
+{
+  "checks": [
+    {
+      "route": "home",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Your care. Connected.",
+      "titleTop": 460.796875,
+      "headerBottom": 96
+    },
+    {
+      "route": "services",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Find your care.",
+      "titleTop": 168,
+      "headerBottom": 96
+    },
+    {
+      "route": "doctors",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Meet the care team.",
+      "titleTop": 168,
+      "headerBottom": 96
+    },
+    {
+      "route": "about",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Care that stays connected.",
+      "titleTop": 168,
+      "headerBottom": 96
+    },
+    {
+      "route": "contact",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Let’s talk.",
+      "titleTop": 168,
+      "headerBottom": 96
+    },
+    {
+      "route": "faq",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Before your visit.",
+      "titleTop": 168,
+      "headerBottom": 96
+    },
+    {
+      "route": "privacy",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Your demo privacy.",
+      "titleTop": 168,
+      "headerBottom": 96
+    },
+    {
+      "route": "portal",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "title": "Your patient portal.",
+      "titleTop": 305.21875,
+      "headerBottom": 0
+    },
+    {
+      "route": "home",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Your care. Connected.",
+      "titleTop": 368,
+      "headerBottom": 80
+    },
+    {
+      "route": "services",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Find your care.",
+      "titleTop": 152,
+      "headerBottom": 80
+    },
+    {
+      "route": "doctors",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Meet the care team.",
+      "titleTop": 152,
+      "headerBottom": 80
+    },
+    {
+      "route": "about",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Care that stays connected.",
+      "titleTop": 152,
+      "headerBottom": 80
+    },
+    {
+      "route": "contact",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Let’s talk.",
+      "titleTop": 152,
+      "headerBottom": 80
+    },
+    {
+      "route": "faq",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Before your visit.",
+      "titleTop": 152,
+      "headerBottom": 80
+    },
+    {
+      "route": "privacy",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Your demo privacy.",
+      "titleTop": 152,
+      "headerBottom": 80
+    },
+    {
+      "route": "portal",
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "title": "Your patient portal.",
+      "titleTop": 305.21875,
+      "headerBottom": 0
+    },
+    {
+      "route": "home",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Your care. Connected.",
+      "titleTop": 292,
+      "headerBottom": 76
+    },
+    {
+      "route": "services",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Find your care.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "doctors",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Meet the care team.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "about",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Care that stays connected.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "contact",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Let’s talk.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "faq",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Before your visit.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "privacy",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Your demo privacy.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "portal",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "title": "Your patient portal.",
+      "titleTop": 309.625,
+      "headerBottom": 0
+    },
+    {
+      "route": "home",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Your care. Connected.",
+      "titleTop": 292,
+      "headerBottom": 76
+    },
+    {
+      "route": "services",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Find your care.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "doctors",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Meet the care team.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "about",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Care that stays connected.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "contact",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Let’s talk.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "faq",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Before your visit.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "privacy",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Your demo privacy.",
+      "titleTop": 124,
+      "headerBottom": 76
+    },
+    {
+      "route": "portal",
+      "width": 320,
+      "overflow": false,
+      "images": true,
+      "title": "Your patient portal.",
+      "titleTop": 255.25,
+      "headerBottom": 0
+    }
+  ],
+  "reducedMotionAnimations": 0,
+  "errors": []
+}

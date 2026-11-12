@@ -1,0 +1,2356 @@
+{
+ "url": "http://127.0.0.1:5197",
+ "at": "2026-11-04T07:01:07.070Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.94,
+    0.74,
+    1,
+    0.95,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 20,
+    "css": 20,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4936,
+     "screens": 5.5,
+     "words": 451,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 38,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "clinic-concept.webp",
+      "consultation.jpg",
+      "laboratory.jpg",
+      "ultrasound.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your care. Connected.",
+     "words": 3,
+     "chars": 21,
+     "lines": 2,
+     "size": 102.2,
+     "vw": 7.1,
+     "font": "Inter Variable",
+     "weight": 500,
+     "tracking": -0.07,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.5,
+     "top": 549,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your care. Connected.",
+     "words": 3,
+     "lines": 2,
+     "size": 102.2,
+     "font": "Inter Variable"
+    },
+    "headings": [
+     {
+      "text": "Your care. Connected.",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 102.2,
+      "vw": 7.1,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.07,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 549,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with what you need.",
+      "words": 5,
+      "chars": 25,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1027,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Consultations",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 1210,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Laboratory",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 1469,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Imaging",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 1728,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "After the visit, stay connected.",
+      "words": 5,
+      "chars": 32,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 2178,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "7",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.03,
+      "top": 2371,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet the care team.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 2834,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MR",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 6.1,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 3046,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "DC",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 6.1,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.08,
+      "top": 3046,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 6.1,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.06,
+      "top": 3046,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "A simpler next step.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3520,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you begin.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3941,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next step starts here.",
+      "words": 5,
+      "chars": 27,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 4338,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      13,
+      14,
+      16,
+      17,
+      18,
+      24,
+      32,
+      48,
+      88,
+      102
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.4
+     },
+     "measureChars": 76,
+     "max": {
+      "size": 102.2,
+      "vw": 7.1,
+      "font": "Inter Variable",
+      "text": "Your care."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.02,
+     "smallText": 2
+    },
+    "eyebrows": [
+     {
+      "text": "HIMS Demo Clinic",
+      "above": "Your care. Connected.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 486
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f8fafc",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.4,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f0f5f7",
+       "top": 112,
+       "hsl": {
+        "h": 197,
+        "s": 0.3,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#deebf6",
+       "top": 3464,
+       "hsl": {
+        "h": 208,
+        "s": 0.57,
+        "l": 0.92
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#182c3b",
+       "share": 0.61
+      },
+      {
+       "color": "#52616b",
+       "share": 0.28
+      },
+      {
+       "color": "#2e67b2",
+       "share": 0.06
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#606974",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#2e67b2",
+      "hsl": {
+       "h": 214,
+       "s": 0.59,
+       "l": 0.44
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 4,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book a visit",
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 8,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.37
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4936,
+    "margins": {
+     "left": 80,
+     "right": 91
+    },
+    "sections": [
+     {
+      "sel": "main#clinic-content",
+      "tag": "main",
+      "top": 96,
+      "height": 4186,
+      "words": 443,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Your care.",
+       "size": 102,
+       "tag": "h1"
+      },
+      "left": 80,
+      "right": 80,
+      "textLeft": 80,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-bottom-cta",
+      "tag": "section",
+      "top": 4282,
+      "height": 212,
+      "words": 16,
+      "media": 0,
+      "middle": 408,
+      "heading": {
+       "text": "Your next step starts here.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 136,
+      "right": 136,
+      "textLeft": 136,
+      "textRight": 196,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.clinic-container.clinic-footer",
+      "tag": "footer",
+      "top": 4494,
+      "height": 442,
+      "words": 62,
+      "media": 0,
+      "middle": 158,
+      "heading": {
+       "text": "Explore",
+       "size": 16,
+       "tag": "h3"
+      },
+      "left": 80,
+      "right": 91,
+      "textLeft": 80,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your care. Connected.",
+      "size": 102,
+      "top": 549,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 632,
+      "n": 10
+     },
+     {
+      "x": 80,
+      "n": 9
+     },
+     {
+      "x": 665,
+      "n": 3
+     },
+     {
+      "x": 136,
+      "n": 2
+     },
+     {
+      "x": 517,
+      "n": 1
+     },
+     {
+      "x": 955,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 1200,
+     "y": 540,
+     "w": 240,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.92,
+    0.78,
+    0.98,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 20,
+    "css": 20,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4657,
+     "screens": 4.5,
+     "words": 440,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 38,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "clinic-concept.webp",
+      "consultation.jpg",
+      "laboratory.jpg",
+      "ultrasound.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your care. Connected.",
+     "words": 3,
+     "chars": 21,
+     "lines": 2,
+     "size": 64,
+     "vw": 8.3,
+     "font": "Inter Variable",
+     "weight": 500,
+     "tracking": -0.07,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.51,
+     "top": 419,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your care. Connected.",
+     "words": 3,
+     "lines": 2,
+     "size": 64,
+     "font": "Inter Variable"
+    },
+    "headings": [
+     {
+      "text": "Your care. Connected.",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 64,
+      "vw": 8.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.07,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 419,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with what you need.",
+      "words": 5,
+      "chars": 25,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 819,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Consultations",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 969,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Laboratory",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 1220,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Imaging",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 1497,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "After the visit, stay connected.",
+      "words": 5,
+      "chars": 32,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1908,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "7",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.05,
+      "top": 2111,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet the care team.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 2542,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MR",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 11.5,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 2716,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "DC",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 11.5,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.15,
+      "top": 2716,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 11.5,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.12,
+      "top": 2716,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "A simpler next step.",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 3121,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you begin.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3574,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next step starts here.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 3964,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      13,
+      14,
+      16,
+      17,
+      18,
+      24,
+      32,
+      64,
+      88
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.4
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 88,
+      "vw": 11.5,
+      "font": "Inter Variable",
+      "text": "MR"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.02,
+     "smallText": 2
+    },
+    "eyebrows": [
+     {
+      "text": "HIMS Demo Clinic",
+      "above": "Your care. Connected.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 356
+     },
+     {
+      "text": "Demo clinician",
+      "above": "MR",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 2680
+     },
+     {
+      "text": "Demo clinician",
+      "above": "DC",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 2680
+     },
+     {
+      "text": "Demo clinician",
+      "above": "SL",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 2680
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f8fafc",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.4,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f0f5f7",
+       "top": 1828,
+       "hsl": {
+        "h": 197,
+        "s": 0.3,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#deebf6",
+       "top": 3081,
+       "hsl": {
+        "h": 208,
+        "s": 0.57,
+        "l": 0.92
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#182c3b",
+       "share": 0.62
+      },
+      {
+       "color": "#52616b",
+       "share": 0.28
+      },
+      {
+       "color": "#2e67b2",
+       "share": 0.06
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#606974",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#182c3b"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 4,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 8,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.23
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4657,
+    "margins": {
+     "left": 32,
+     "right": 34
+    },
+    "sections": [
+     {
+      "sel": "main#clinic-content",
+      "tag": "main",
+      "top": 80,
+      "height": 3828,
+      "words": 408,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Your care.",
+       "size": 64,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-bottom-cta",
+      "tag": "section",
+      "top": 3908,
+      "height": 230,
+      "words": 16,
+      "media": 0,
+      "middle": 59,
+      "heading": {
+       "text": "Your next step starts here.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 88,
+      "right": 88,
+      "textLeft": 88,
+      "textRight": 161,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.clinic-container.clinic-footer",
+      "tag": "footer",
+      "top": 4138,
+      "height": 519,
+      "words": 62,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Explore",
+       "size": 16,
+       "tag": "h3"
+      },
+      "left": 32,
+      "right": 53,
+      "textLeft": 32,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your care. Connected.",
+      "size": 64,
+      "top": 419,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 344,
+      "n": 10
+     },
+     {
+      "x": 32,
+      "n": 9
+     },
+     {
+      "x": 368,
+      "n": 3
+     },
+     {
+      "x": 64,
+      "n": 1
+     },
+     {
+      "x": 88,
+      "n": 1
+     },
+     {
+      "x": 273,
+      "n": 1
+     },
+     {
+      "x": 515,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.89,
+    0.88,
+    0.88,
+    0.96,
+    1,
+    0.86,
+    1,
+    0.99,
+    0.99
+   ],
+   "motion": {
+    "elements": 20,
+    "css": 20,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7258,
+     "screens": 8.6,
+     "words": 438,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 38,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "clinic-concept.webp",
+      "consultation.jpg",
+      "laboratory.jpg",
+      "ultrasound.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your care. Connected.",
+     "words": 3,
+     "chars": 21,
+     "lines": 2,
+     "size": 54.6,
+     "vw": 14,
+     "font": "Inter Variable",
+     "weight": 500,
+     "tracking": -0.07,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 384,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your care. Connected.",
+     "words": 3,
+     "lines": 2,
+     "size": 54.6,
+     "font": "Inter Variable"
+    },
+    "headings": [
+     {
+      "text": "Your care. Connected.",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 54.6,
+      "vw": 14,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.07,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 384,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with what you need.",
+      "words": 5,
+      "chars": 25,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1049,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Consultations",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1523,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Laboratory",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1985,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Imaging",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2446,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "After the visit, stay connected.",
+      "words": 5,
+      "chars": 32,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2811,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Alex Santos",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.33,
+      "top": 3368,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet the care team.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 3826,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MR",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 22.6,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.31,
+      "top": 4097,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Dr. Maya Reyes",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4267,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "DC",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 22.6,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.29,
+      "top": 4476,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Dr. Daniel Cruz",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4646,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 88,
+      "vw": 22.6,
+      "font": "Inter Variable",
+      "weight": 400,
+      "tracking": -0.09,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.23,
+      "top": 4855,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Dr. Sofia Lim",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5025,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A simpler next step.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 5240,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your care",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 5372,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose your visit date",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 5490,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Keep your care together",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 5607,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you begin.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5801,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next step starts here.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 6287,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      13,
+      14,
+      16,
+      17,
+      18,
+      24,
+      32,
+      40,
+      55,
+      88
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.4
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 88,
+      "vw": 22.6,
+      "font": "Inter Variable",
+      "text": "MR"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.02,
+     "smallText": 2
+    },
+    "eyebrows": [
+     {
+      "text": "HIMS Demo Clinic",
+      "above": "Your care. Connected.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 300
+     },
+     {
+      "text": "Demo clinician",
+      "above": "MR",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 4051
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f8fafc",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.4,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f0f5f7",
+       "top": 686,
+       "hsl": {
+        "h": 197,
+        "s": 0.3,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#deebf6",
+       "top": 5208,
+       "hsl": {
+        "h": 208,
+        "s": 0.57,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#2e67b2",
+       "top": 6251,
+       "hsl": {
+        "h": 214,
+        "s": 0.59,
+        "l": 0.44
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#182c3b",
+       "share": 0.62
+      },
+      {
+       "color": "#52616b",
+       "share": 0.28
+      },
+      {
+       "color": "#2e67b2",
+       "share": 0.06
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#606974",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#182c3b"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 1,
+     "radius": 4,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 8,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.23
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7258,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "main#clinic-content",
+      "tag": "main",
+      "top": 76,
+      "height": 6175,
+      "words": 408,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Your care.",
+       "size": 55,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-bottom-cta",
+      "tag": "section",
+      "top": 6251,
+      "height": 296,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your next step starts here.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 44,
+      "right": 58,
+      "textLeft": 44,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.clinic-container.clinic-footer",
+      "tag": "footer",
+      "top": 6547,
+      "height": 711,
+      "words": 62,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Explore",
+       "size": 16,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 44,
+      "textLeft": 20,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your care. Connected.",
+      "size": 55,
+      "top": 384,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 21
+     },
+     {
+      "x": 40,
+      "n": 5
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"HIMS Demo Clinic\" above \"Your care. Connected.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "11 different font sizes (11, 13, 14, 16, 17, 18, 24, 32, 48, 88, 102).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 1440,
+   "message": "2 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 390,
+   "message": "The h1 is a bare name (\"Your care. Connected.\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\desktop-page-01.jpg",
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\mobile-page-01.jpg",
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\after\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

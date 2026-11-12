@@ -1,0 +1,3120 @@
+{
+ "url": "http://127.0.0.1:5196",
+ "at": "2026-11-04T06:51:06.566Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3660,
+     "screens": 4.1,
+     "words": 460,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 48,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☀"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A little more care. A little more you.",
+     "words": 8,
+     "chars": 38,
+     "lines": 2,
+     "size": 64.8,
+     "vw": 4.5,
+     "font": "Inter Variable",
+     "weight": 500,
+     "tracking": -0.06,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.41,
+     "top": 220,
+     "mixedFonts": [
+      "Inter Variable",
+      "Georgia italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A little more care. A little more you.",
+     "words": 8,
+     "lines": 2,
+     "size": 64.8,
+     "font": "Inter Variable"
+    },
+    "headings": [
+     {
+      "text": "A little more care. A little more you.",
+      "words": 8,
+      "chars": 38,
+      "lines": 2,
+      "size": 64.8,
+      "vw": 4.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 220,
+      "mixedFonts": [
+       "Inter Variable",
+       "Georgia italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Good care starts here.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 37,
+      "vw": 2.6,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 946,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your health. A little closer.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 41,
+      "vw": 2.8,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.34,
+      "top": 1484,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 29,
+      "vw": 2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.01,
+      "top": 1662,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 29,
+      "vw": 2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.01,
+      "top": 1668,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your demo care team.",
+      "words": 5,
+      "chars": 25,
+      "lines": 1,
+      "size": 37,
+      "vw": 2.6,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2014,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MR",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 2.7,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 2132,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "DC",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 2.7,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.13,
+      "top": 2132,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 2.7,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.13,
+      "top": 2132,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "From “I should” to “I’m booked.”",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 37,
+      "vw": 2.6,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2606,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s make it clear.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 37,
+      "vw": 2.6,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2916,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make a little time for you.",
+      "words": 6,
+      "chars": 27,
+      "lines": 1,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 3245,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter Variable",
+       "share": 1,
+       "mono": false
+      },
+      {
+       "family": "Georgia",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      27,
+      29,
+      34,
+      37,
+      39,
+      41,
+      65
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter Variable",
+      "size": 12,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.1
+     },
+     "measureChars": 110,
+     "max": {
+      "size": 64.8,
+      "vw": 4.5,
+      "font": "Inter Variable",
+      "text": "A little more care.A little more"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 12,
+     "microLabelShare": 0.089,
+     "microSamples": [
+      "ILLUSTRATION · HIMS DEMO CLINIC",
+      "HERE FOR YOUR NEXT STEP",
+      "DEMO PREVIEW",
+      "YOUR HEALTH, AT A GLANCE",
+      "CARE DOESN’T END AT THE CLINIC",
+      "A FAMILIAR FACE, A FRESH START"
+     ],
+     "upperShare": 0.1,
+     "centerShare": 0.05,
+     "smallText": 64
+    },
+    "eyebrows": [
+     {
+      "text": "HERE FOR YOUR NEXT STEP",
+      "above": "Good care starts here.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 920
+     },
+     {
+      "text": "CARE DOESN’T END AT THE CLINIC",
+      "above": "Your health. A little closer.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 1452
+     },
+     {
+      "text": "A FAMILIAR FACE, A FRESH START",
+      "above": "Meet your demo care team.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 1988
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "MR",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 7,
+      "top": 2108
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "DC",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 7,
+      "top": 2108
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "SL",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 7,
+      "top": 2108
+     },
+     {
+      "text": "A LITTLE LESS COMPLICATED",
+      "above": "From “I should” to “I’m booked.”",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2572
+     },
+     {
+      "text": "A FEW THINGS YOU MIGHT BE WONDERING",
+      "above": "Let’s make it clear.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2882
+     },
+     {
+      "text": "YOUR NEXT CHAPTER OF CARE",
+      "above": "Make a little time for you.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 3223
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9,
+      "top": 1069
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 1069
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 1069
+     },
+     {
+      "text": "01",
+      "size": 9,
+      "top": 2568
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 2636
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 2704
+     }
+    ],
+    "color": {
+     "bodyBg": "#f8fafc",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.4,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf6fb",
+       "top": 1392,
+       "hsl": {
+        "h": 201,
+        "s": 0.64,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#606974",
+       "share": 0.63
+      },
+      {
+       "color": "#2e67b2",
+       "share": 0.2
+      },
+      {
+       "color": "#333333",
+       "share": 0.15
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      },
+      {
+       "color": "#cc3396",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#2e67b2",
+      "hsl": {
+       "h": 214,
+       "s": 0.59,
+       "l": 0.44
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 6,
+     "height": 49,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book a visit",
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 2,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.clinic-floating-card → rgba(46, 103, 178, 0.1) 0px 12px 40px 0px",
+      "div.clinic-portal-preview → rgba(46, 103, 178, 0.1) -14px 14px 0px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.clinic-hero-band → linear-gradient(115deg, rgb(229, 244, 250), rgb(205, 235, 245))"
+     ],
+     "gradientText": 0,
+     "hairlines": 9,
+     "hairlineSamples": [
+      "header.clinic-header 1440px",
+      "div.clinic-hero-note 597px",
+      "div.clinic-care-strip 1440px",
+      "div.clinic-preview-top 361px",
+      "section.clinic-container.clinic-steps 1200px"
+     ],
+     "outlinedBoxes": 13,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 15,
+     "boxRadius": 8,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 1022
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 93,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3660,
+    "margins": {
+     "left": 120,
+     "right": 135
+    },
+    "sections": [
+     {
+      "sel": "div.clinic-hero-band",
+      "tag": "div",
+      "top": 93,
+      "height": 671,
+      "words": 61,
+      "media": 1,
+      "middle": 187,
+      "heading": {
+       "text": "A little more care.",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 120,
+      "right": 120,
+      "textLeft": 120,
+      "textRight": 120,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 836,
+      "height": 556,
+      "words": 76,
+      "media": 0,
+      "middle": 84,
+      "heading": {
+       "text": "Good care starts here.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 147,
+      "textLeft": 120,
+      "textRight": 147,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-portal-section",
+      "tag": "section",
+      "top": 1392,
+      "height": 512,
+      "words": 83,
+      "media": 0,
+      "middle": 201,
+      "heading": {
+       "text": "Your health.",
+       "size": 41,
+       "tag": "h2"
+      },
+      "left": 207,
+      "right": 202,
+      "textLeft": 207,
+      "textRight": 202,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 1904,
+      "height": 613,
+      "words": 42,
+      "media": 0,
+      "middle": 105,
+      "heading": {
+       "text": "MR",
+       "size": 39,
+       "tag": "span"
+      },
+      "left": 120,
+      "right": 135,
+      "textLeft": 120,
+      "textRight": 147,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-steps",
+      "tag": "section",
+      "top": 2517,
+      "height": 281,
+      "words": 49,
+      "media": 0,
+      "middle": 376,
+      "heading": {
+       "text": "From “I should”",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 180,
+      "right": 378,
+      "textLeft": 180,
+      "textRight": 378,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 2798,
+      "height": 374,
+      "words": 139,
+      "media": 0,
+      "middle": 228,
+      "heading": {
+       "text": "Let’s make it clear.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 154,
+      "textLeft": 120,
+      "textRight": 154,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-bottom-cta",
+      "tag": "section",
+      "top": 3172,
+      "height": 192,
+      "words": 22,
+      "media": 0,
+      "middle": 522,
+      "heading": {
+       "text": "Make a little time for you.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 175,
+      "right": 175,
+      "textLeft": 175,
+      "textRight": 236,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.clinic-container.clinic-footer",
+      "tag": "footer",
+      "top": 3364,
+      "height": 296,
+      "words": 58,
+      "media": 0,
+      "middle": 209,
+      "heading": {
+       "text": "Explore",
+       "size": 11,
+       "tag": "h3"
+      },
+      "left": 120,
+      "right": 139,
+      "textLeft": 120,
+      "textRight": 139,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A little more care. A little more you.",
+      "size": 65,
+      "top": 220,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 120,
+      "n": 7
+     },
+     {
+      "x": 175,
+      "n": 3
+     },
+     {
+      "x": 765,
+      "n": 2
+     },
+     {
+      "x": 147,
+      "n": 1
+     },
+     {
+      "x": 207,
+      "n": 1
+     },
+     {
+      "x": 453,
+      "n": 1
+     },
+     {
+      "x": 528,
+      "n": 1
+     },
+     {
+      "x": 553,
+      "n": 1
+     },
+     {
+      "x": 936,
+      "n": 1
+     },
+     {
+      "x": 959,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 19,
+    "bodySize": 12,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 120,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    1,
+    1,
+    0.99,
+    1
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3313,
+     "screens": 3.2,
+     "words": 448,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 48,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☀"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A little more care. A little more you.",
+     "words": 8,
+     "chars": 38,
+     "lines": 2,
+     "size": 42,
+     "vw": 5.5,
+     "font": "Inter Variable",
+     "weight": 500,
+     "tracking": -0.06,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.48,
+     "top": 141,
+     "mixedFonts": [
+      "Inter Variable",
+      "Georgia italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A little more care. A little more you.",
+     "words": 8,
+     "lines": 2,
+     "size": 42,
+     "font": "Inter Variable"
+    },
+    "headings": [
+     {
+      "text": "A little more care. A little more you.",
+      "words": 8,
+      "chars": 38,
+      "lines": 2,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 141,
+      "mixedFonts": [
+       "Inter Variable",
+       "Georgia italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Good care starts here.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 745,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your health. A little closer.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.41,
+      "top": 1234,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hello, Alex ☀",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1322,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 29,
+      "vw": 3.8,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.03,
+      "top": 1410,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 29,
+      "vw": 3.8,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 1415,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your demo care team.",
+      "words": 5,
+      "chars": 25,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1713,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MR",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 5.1,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 1818,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "DC",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 5.1,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.19,
+      "top": 1818,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 5.1,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.19,
+      "top": 1818,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "From “I should” to “I’m booked.”",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 2204,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s make it clear.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 2474,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make a little time for you.",
+      "words": 6,
+      "chars": 27,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 2779,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter Variable",
+       "share": 1,
+       "mono": false
+      },
+      {
+       "family": "Georgia",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      27,
+      29,
+      32,
+      34,
+      39,
+      42
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter Variable",
+      "size": 12,
+      "leading": 1.9,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": null
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 42,
+      "vw": 5.5,
+      "font": "Inter Variable",
+      "text": "A little more care.A little more"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 12,
+     "microLabelShare": 0.09,
+     "microSamples": [
+      "ILLUSTRATION · HIMS DEMO CLINIC",
+      "HERE FOR YOUR NEXT STEP",
+      "DEMO PREVIEW",
+      "YOUR HEALTH, AT A GLANCE",
+      "CARE DOESN’T END AT THE CLINIC",
+      "A FAMILIAR FACE, A FRESH START"
+     ],
+     "upperShare": 0.11,
+     "centerShare": 0.05,
+     "smallText": 65
+    },
+    "eyebrows": [
+     {
+      "text": "HERE FOR YOUR NEXT STEP",
+      "above": "Good care starts here.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 721
+     },
+     {
+      "text": "CARE DOESN’T END AT THE CLINIC",
+      "above": "Your health. A little closer.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 1202
+     },
+     {
+      "text": "YOUR HEALTH, AT A GLANCE",
+      "above": "Hello, Alex ☀",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 7,
+      "top": 1308
+     },
+     {
+      "text": "A little clarity for your day.",
+      "above": "2",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 1359
+     },
+     {
+      "text": "A little clarity for your day.",
+      "above": "1",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 1359
+     },
+     {
+      "text": "A FAMILIAR FACE, A FRESH START",
+      "above": "Meet your demo care team.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 1689
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "MR",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 6,
+      "top": 1795
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "DC",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 6,
+      "top": 1795
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "SL",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 6,
+      "top": 1795
+     },
+     {
+      "text": "A LITTLE LESS COMPLICATED",
+      "above": "From “I should” to “I’m booked.”",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 2172
+     },
+     {
+      "text": "A FEW THINGS YOU MIGHT BE WONDERING",
+      "above": "Let’s make it clear.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 2442
+     },
+     {
+      "text": "YOUR NEXT CHAPTER OF CARE",
+      "above": "Make a little time for you.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 2757
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 8,
+      "top": 851
+     },
+     {
+      "text": "02",
+      "size": 8,
+      "top": 851
+     },
+     {
+      "text": "03",
+      "size": 8,
+      "top": 851
+     },
+     {
+      "text": "01",
+      "size": 9,
+      "top": 2167
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 2235
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 2303
+     }
+    ],
+    "color": {
+     "bodyBg": "#f8fafc",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.4,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf6fb",
+       "top": 1162,
+       "hsl": {
+        "h": 201,
+        "s": 0.64,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#606974",
+       "share": 0.63
+      },
+      {
+       "color": "#2e67b2",
+       "share": 0.21
+      },
+      {
+       "color": "#333333",
+       "share": 0.15
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      },
+      {
+       "color": "#cc3396",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#2e67b2",
+      "hsl": {
+       "h": 214,
+       "s": 0.59,
+       "l": 0.44
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 6,
+     "height": 49,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 2,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.clinic-floating-card → rgba(46, 103, 178, 0.1) 0px 12px 40px 0px",
+      "div.clinic-portal-preview → rgba(46, 103, 178, 0.1) -14px 14px 0px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.clinic-hero-band → linear-gradient(115deg, rgb(229, 244, 250), rgb(205, 235, 245))"
+     ],
+     "gradientText": 0,
+     "hairlines": 10,
+     "hairlineSamples": [
+      "header.clinic-header 768px",
+      "div.clinic-hero-note 366px",
+      "div.clinic-care-strip 768px",
+      "div.clinic-preview-top 277px",
+      "section.clinic-container.clinic-steps 728px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 9,
+     "boxRadius": 8,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 809
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.15
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 79,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3313,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.clinic-hero-band",
+      "tag": "div",
+      "top": 79,
+      "height": 468,
+      "words": 61,
+      "media": 1,
+      "middle": 55,
+      "heading": {
+       "text": "A little more care.",
+       "size": 42,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 661,
+      "height": 502,
+      "words": 76,
+      "media": 0,
+      "middle": 80,
+      "heading": {
+       "text": "Good care starts here.",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 47,
+      "textLeft": 20,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-portal-section",
+      "tag": "section",
+      "top": 1162,
+      "height": 466,
+      "words": 83,
+      "media": 0,
+      "middle": 58,
+      "heading": {
+       "text": "Your health.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 70,
+      "right": 57,
+      "textLeft": 70,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 1629,
+      "height": 503,
+      "words": 42,
+      "media": 0,
+      "middle": 31,
+      "heading": {
+       "text": "MR",
+       "size": 39,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 35,
+      "textLeft": 20,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-steps",
+      "tag": "section",
+      "top": 2131,
+      "height": 251,
+      "words": 49,
+      "media": 0,
+      "middle": 212,
+      "heading": {
+       "text": "From “I should”",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 55,
+      "right": 64,
+      "textLeft": 55,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 2382,
+      "height": 324,
+      "words": 104,
+      "media": 0,
+      "middle": 122,
+      "heading": {
+       "text": "Let’s make it clear.",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 42,
+      "textLeft": 20,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-bottom-cta",
+      "tag": "section",
+      "top": 2706,
+      "height": 192,
+      "words": 22,
+      "media": 0,
+      "middle": 50,
+      "heading": {
+       "text": "Make a little time for you.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 75,
+      "right": 75,
+      "textLeft": 75,
+      "textRight": 136,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.clinic-container.clinic-footer",
+      "tag": "footer",
+      "top": 2898,
+      "height": 416,
+      "words": 58,
+      "media": 0,
+      "middle": 174,
+      "heading": {
+       "text": "Explore",
+       "size": 11,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 39,
+      "textLeft": 20,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A little more care. A little more you.",
+      "size": 42,
+      "top": 141,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 6
+     },
+     {
+      "x": 55,
+      "n": 2
+     },
+     {
+      "x": 71,
+      "n": 2
+     },
+     {
+      "x": 402,
+      "n": 2
+     },
+     {
+      "x": 39,
+      "n": 1
+     },
+     {
+      "x": 236,
+      "n": 1
+     },
+     {
+      "x": 268,
+      "n": 1
+     },
+     {
+      "x": 286,
+      "n": 1
+     },
+     {
+      "x": 516,
+      "n": 1
+     },
+     {
+      "x": 532,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 18,
+    "bodySize": 12,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0.98,
+    0.98
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6129,
+     "screens": 7.3,
+     "words": 445,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 48,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☀"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A little more care. A little more you.",
+     "words": 8,
+     "chars": 38,
+     "lines": 2,
+     "size": 42,
+     "vw": 10.8,
+     "font": "Inter Variable",
+     "weight": 500,
+     "tracking": -0.06,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 136,
+     "mixedFonts": [
+      "Inter Variable",
+      "Georgia italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A little more care. A little more you.",
+     "words": 8,
+     "lines": 2,
+     "size": 42,
+     "font": "Inter Variable"
+    },
+    "headings": [
+     {
+      "text": "A little more care. A little more you.",
+      "words": 8,
+      "chars": 38,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 136,
+      "mixedFonts": [
+       "Inter Variable",
+       "Georgia italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Good care starts here.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1123,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hello, Alex ☀",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 2256,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.05,
+      "top": 2350,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.03,
+      "top": 2354,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Your health. A little closer.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 37,
+      "vw": 9.5,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2609,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your demo care team.",
+      "words": 5,
+      "chars": 25,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 3104,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MR",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 10,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.51,
+      "top": 3252,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "DC",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 10,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.51,
+      "top": 3630,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SL",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 39,
+      "vw": 10,
+      "font": "Georgia",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.51,
+      "top": 4009,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "From “I should” to “I’m booked.”",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4447,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s make it clear.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4937,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make a little time for you.",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 5374,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter Variable",
+       "share": 1,
+       "mono": false
+      },
+      {
+       "family": "Georgia",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      27,
+      29,
+      32,
+      37,
+      39,
+      42
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter Variable",
+      "size": 12,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.6
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 42,
+      "vw": 10.8,
+      "font": "Inter Variable",
+      "text": "A little more care.A little more"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 12,
+     "microLabelShare": 0.09,
+     "microSamples": [
+      "ILLUSTRATION · HIMS DEMO CLINIC",
+      "HERE FOR YOUR NEXT STEP",
+      "DEMO PREVIEW",
+      "YOUR HEALTH, AT A GLANCE",
+      "CARE DOESN’T END AT THE CLINIC",
+      "A FAMILIAR FACE, A FRESH START"
+     ],
+     "upperShare": 0.11,
+     "centerShare": 0.05,
+     "smallText": 62
+    },
+    "eyebrows": [
+     {
+      "text": "HERE FOR YOUR NEXT STEP",
+      "above": "Good care starts here.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 1099
+     },
+     {
+      "text": "YOUR HEALTH, AT A GLANCE",
+      "above": "Hello, Alex ☀",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 7,
+      "top": 2242
+     },
+     {
+      "text": "A little clarity for your day.",
+      "above": "2",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2293
+     },
+     {
+      "text": "A little clarity for your day.",
+      "above": "1",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2293
+     },
+     {
+      "text": "CARE DOESN’T END AT THE CLINIC",
+      "above": "Your health. A little closer.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 2577
+     },
+     {
+      "text": "A FAMILIAR FACE, A FRESH START",
+      "above": "Meet your demo care team.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 3080
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "MR",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 3231
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "DC",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 3609
+     },
+     {
+      "text": "ILLUSTRATIVE PROFILE",
+      "above": "SL",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 3987
+     },
+     {
+      "text": "A LITTLE LESS COMPLICATED",
+      "above": "From “I should” to “I’m booked.”",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 4415
+     },
+     {
+      "text": "A FEW THINGS YOU MIGHT BE WONDERING",
+      "above": "Let’s make it clear.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 4905
+     },
+     {
+      "text": "YOUR NEXT CHAPTER OF CARE",
+      "above": "Make a little time for you.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 8,
+      "top": 5352
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 10,
+      "top": 1272
+     },
+     {
+      "text": "02",
+      "size": 10,
+      "top": 1533
+     },
+     {
+      "text": "03",
+      "size": 10,
+      "top": 1793
+     },
+     {
+      "text": "01",
+      "size": 9,
+      "top": 4590
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 4660
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 4750
+     }
+    ],
+    "color": {
+     "bodyBg": "#f8fafc",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.4,
+      "l": 0.98
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf6fb",
+       "top": 2107,
+       "hsl": {
+        "h": 201,
+        "s": 0.64,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#606974",
+       "share": 0.63
+      },
+      {
+       "color": "#2e67b2",
+       "share": 0.21
+      },
+      {
+       "color": "#333333",
+       "share": 0.15
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      },
+      {
+       "color": "#cc3396",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#2e67b2",
+      "hsl": {
+       "h": 214,
+       "s": 0.59,
+       "l": 0.44
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 6,
+     "height": 49,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 2,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.clinic-floating-card → rgba(46, 103, 178, 0.1) 0px 12px 40px 0px",
+      "div.clinic-portal-preview → rgba(46, 103, 178, 0.1) -14px 14px 0px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.clinic-hero-band → linear-gradient(115deg, rgb(229, 244, 250), rgb(205, 235, 245))"
+     ],
+     "gradientText": 0,
+     "hairlines": 10,
+     "hairlineSamples": [
+      "header.clinic-header 390px",
+      "div.clinic-hero-note 350px",
+      "div.clinic-care-strip 390px",
+      "div.clinic-preview-top 251px",
+      "section.clinic-container.clinic-steps 350px"
+     ],
+     "outlinedBoxes": 10,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 12,
+     "boxRadius": 8,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 1229
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.32
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 79,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6129,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.clinic-hero-band",
+      "tag": "div",
+      "top": 79,
+      "height": 846,
+      "words": 61,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "A little more care.",
+       "size": 42,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 1039,
+      "height": 1068,
+      "words": 76,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good care starts here.",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 34,
+      "textLeft": 20,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-portal-section",
+      "tag": "section",
+      "top": 2107,
+      "height": 913,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your health.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 45,
+      "right": 74,
+      "textLeft": 45,
+      "textRight": 74,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 3020,
+      "height": 1359,
+      "words": 42,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "MR",
+       "size": 39,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 35,
+      "textLeft": 20,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-steps",
+      "tag": "section",
+      "top": 4379,
+      "height": 466,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "From “I should”",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 45,
+      "right": 52,
+      "textLeft": 45,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-section",
+      "tag": "section",
+      "top": 4845,
+      "height": 466,
+      "words": 104,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s make it clear.",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 22,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.clinic-container.clinic-bottom-cta",
+      "tag": "section",
+      "top": 5312,
+      "height": 286,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Make a little time for you.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 45,
+      "right": 67,
+      "textLeft": 45,
+      "textRight": 67,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.clinic-container.clinic-footer",
+      "tag": "footer",
+      "top": 5597,
+      "height": 532,
+      "words": 58,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Explore",
+       "size": 13,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 61,
+      "textLeft": 20,
+      "textRight": 61,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A little more care. A little more you.",
+      "size": 42,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 8
+     },
+     {
+      "x": 45,
+      "n": 8
+     },
+     {
+      "x": 67,
+      "n": 1
+     },
+     {
+      "x": 236,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 18,
+    "bodySize": 12,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "1 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "9 eyebrow/kicker label(s) above headings: \"HERE FOR YOUR NEXT STEP\" above \"Good care starts here.\"; \"CARE DOESN’T END AT THE CLINIC\" above \"Your health. A little closer.\"; \"A FAMILIAR FACE, A FRESH START\" above \"Meet your demo care team.\"; \"ILLUSTRATIVE PROFILE\" above \"MR\"; \"ILLUSTRATIVE PROFILE\" above \"DC\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01\", \"02\", \"03\", \"01\", \"02\", \"03\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "12 tiny uppercase letter-spaced labels (e.g. \"ILLUSTRATION · HIMS DEMO CLINIC\", \"HERE FOR YOUR NEXT STEP\", \"DEMO PREVIEW\", \"YOUR HEALTH, AT A GLANCE\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1440,
+   "message": "Emoji in the page: ☀",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "1 gradient fill(s): div.clinic-hero-band → linear-gradient(115deg, rgb(229, 244, 250), rgb(205, 235, 245))",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "2 box-shadow(s) on elements at rest: div.clinic-floating-card → rgba(46, 103, 178, 0.1) 0px 12px 40px 0px | div.clinic-portal-preview → rgba(46, 103, 178, 0.1) -14px 14px 0px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "9 thin rule(s)/divider line(s): header.clinic-header 1440px | div.clinic-hero-note 597px | div.clinic-care-strip 1440px | div.clinic-preview-top 361px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "13 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "1 row(s) of identical cards each topped with a small icon (3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "18 different font sizes (7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 27, 29, 34, 37, 39, 41, 65).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 12px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (5.1:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 110 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "64 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "dev-server",
+   "width": 1440,
+   "message": "This page is served by a development server (Vite, webpack or Next in dev mode).",
+   "fix": "Run the last gate on the production build too (vite build && vite preview, next build && next start, or the built index.html): minifiers and bundlers change the CSS a visitor receives.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 0 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 768,
+   "message": "Left-aligned text starts at 10 different lines (20px, 55px, 71px, 402px, 39px, 236px, 268px); the three most used hold only 56% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\desktop-page-01.jpg",
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\Trainee\\patient portal\\.taste-skill\\before\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
