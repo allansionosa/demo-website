@@ -1,3 +1,4 @@
+import { DoctorPortalEntry, OnlinePortalMenu } from '../components/online-portal-menu';
 import { ArrowDown, ArrowRight, ArrowUpRight, CalendarDays, Check, CheckCircle2, Clock3, FlaskConical, Heart, HeartPulse, MapPin, Menu, MessageCircle, ScanLine, Search, ShieldCheck, Stethoscope, Users, X } from 'lucide-react';
 import { useEffect, useRef, useState, type FormEvent } from 'react';
 import { demoServices, relativeDate, saveDemoBooking } from '../demo';
@@ -53,10 +54,11 @@ export function Website({ route, signedIn, onDemo, onBook }: { route: string; si
         <nav className={`clinic-nav ${menuOpen ? 'clinic-nav-open' : ''}`} aria-label="Main navigation" id="clinic-navigation" onClick={() => setMenuOpen(false)} onKeyDown={(event) => { if (event.key === 'Escape') { setMenuOpen(false); document.getElementById('clinic-menu-toggle')?.focus(); } }}>
           {[['home', 'Home'], ['services', 'Our services'], ['doctors', 'Our doctors'], ['about', 'About us'], ['contact', 'Contact']].map(([value, label]) => <a key={value} href={`#/${value}`} aria-current={route === value ? 'page' : undefined}>{label}</a>)}
         </nav>
-        <div className="clinic-header-actions"><a href={signedIn ? '#/dashboard' : '#/portal'} className="clinic-portal-link" aria-label="Patient portal"><ShieldCheck size={16} /><span>Patient portal</span></a><button className="clinic-button clinic-button-dark clinic-header-book" onClick={() => onBook()}>Book a visit <ArrowUpRight size={16} /></button><button id="clinic-menu-toggle" className="icon-button clinic-menu-toggle" aria-label={menuOpen ? 'Close navigation' : 'Open navigation'} aria-expanded={menuOpen} aria-controls="clinic-navigation" onClick={() => setMenuOpen(!menuOpen)}>{menuOpen ? <X /> : <Menu />}</button></div>
+        <div className="clinic-header-actions"><OnlinePortalMenu signedIn={signedIn} /><button className="clinic-button clinic-button-dark clinic-header-book" onClick={() => onBook()}>Book a visit <ArrowUpRight size={16} /></button><button id="clinic-menu-toggle" className="icon-button clinic-menu-toggle" aria-label={menuOpen ? 'Close navigation' : 'Open navigation'} aria-expanded={menuOpen} aria-controls="clinic-navigation" onClick={() => setMenuOpen(!menuOpen)}>{menuOpen ? <X /> : <Menu />}</button></div>
       </div>
     </header>
     <main ref={content} id="clinic-content" tabIndex={-1}>
+      {route === 'doctor-portal' && <DoctorPortalEntry />}
       {route === 'home' && <ClinicHome onDemo={onDemo} onBook={onBook}>
         <section className="clinic-container clinic-section" aria-labelledby="clinic-team-title">
           <div className="clinic-section-heading"><h2 id="clinic-team-title" data-clinic-reveal>Meet the care team.</h2></div>

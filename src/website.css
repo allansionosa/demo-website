@@ -351,3 +351,23 @@
 @media (max-width: 380px) {
   .clinic-site .clinic-brand small { max-width: 112px; line-height: 1.3; }
 }
+
+.online-portal-menu { position: relative; }
+.online-portal-toggle { display: flex; align-items: center; gap: 8px; min-height: 44px; font-size: 14px; cursor: pointer; list-style: none; white-space: nowrap; }
+.online-portal-toggle::-webkit-details-marker { display: none; }
+.online-portal-toggle:focus-visible { outline: 2px solid var(--primary); outline-offset: 4px; border-radius: 4px; }
+.online-portal-options { position: absolute; top: calc(100% + 8px); right: 0; z-index: 60; width: min(280px, calc(100vw - 32px)); padding: 8px; background: var(--surface, #fff); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 8px 24px #00000012; }
+.online-portal-options a { display: grid; gap: 4px; padding: 12px; border-radius: 6px; color: inherit; }
+.online-portal-options a:hover, .online-portal-options a:focus-visible { background: var(--bg, #f5f7f6); }
+.online-portal-options small { color: var(--muted); font-size: 12px; }
+.doctor-portal-entry { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; padding-block: 72px; align-items: start; }
+.doctor-portal-entry h1 { font-size: clamp(32px, 4vw, 52px); margin-block: 12px 20px; }
+.doctor-sign-in { padding: 28px; }
+.doctor-sign-in h2 { font-size: 24px; }
+.doctor-sign-in p { margin-block: 16px 24px; }
+.doctor-sign-in fieldset { display: grid; gap: 20px; border: 0; padding: 0; margin: 0 0 24px; }
+@media (max-width: 760px) { .doctor-portal-entry { grid-template-columns: 1fr; gap: 24px; padding-block: 36px; } }
+@media (max-width: 700px) {
+  .online-portal-toggle { width: 44px; justify-content: center; gap: 4px; }
+  .online-portal-toggle span { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+}

@@ -69,6 +69,13 @@ export async function request<T>(path: string, options: RequestInit = {}, token?
     },
   })
 
+  await checkResponse(response, token)
+
+  if (response.status === 204) return undefined as T
+  return (await response.json()) as T
+}
+
+async function checkResponse(response: Response, token?: string) {
   if (!response.ok) {
     if (response.status === 401 && token && getStoredSession()?.token === token) {
       storeSession(null)
@@ -83,11 +90,27 @@ export async function request<T>(path: string, options: RequestInit = {}, token?
     throw new ApiError(body.message || 'The request could not be completed.', response.status)
   }
 
-  if (response.status === 204) return undefined as T
-  return (await response.json()) as T
 }
 
+export type ResultPage = { items: DiagnosticResult[]; totalCount: number; page: number; pageSize: number }
+export type ResultFilters = { search: string; department: string; from: string; to: string; sort: string; page: number }
+
 export const portalApi = {
+  getResultPage: (token: string, filters: ResultFilters) => {
+    const search = new URLSearchParams()
+    for (const [key, value] of Object.entries(filters)) if (value !== '' && value !== 'all') search.set(key, String(value))
+    return request<ResultPage>('/api/patient-portal/results/published?' + search, {}, token)
+  },
+  getResultPdf: async (token: string, resultId: number, signal?: AbortSignal) => {
+    const response = await fetch(API_URL + '/api/patient-portal/results/published/' + resultId + '/pdf', {
+      headers: { Accept: 'application/pdf', Authorization: 'Bearer ' + token }, cache: 'no-store', signal,
+    })
+    await checkResponse(response, token)
+    if (!response.headers.get('Content-Type')?.toLowerCase().startsWith('application/pdf')) throw new ApiError('The report copy could not be opened. Please try again.', 502)
+    const blob = await response.blob()
+    if (await blob.slice(0, 5).text() !== '%PDF-') throw new ApiError('The report copy could not be opened. Please try again.', 502)
+    return blob
+  },
   login: (patientNo: string, password: string) =>
     request<Session>('/api/patient-portal/auth/login', {
       method: 'POST',

@@ -449,3 +449,9 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   .report-narrative .report-reading-fields { grid-template-columns: 1fr; }
   .printable-report .alert { border-color: #777; color: black; background: white; }
 }
+
+.released-pdf-frame { display: block; width: 100%; height: 62vh; min-height: 320px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+
+.published-results-page, .published-results-page > * { min-width: 0; }
+
+.published-results-page .responsive-table { position: relative; }

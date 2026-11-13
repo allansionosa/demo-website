@@ -1,6 +1,8 @@
 import { Activity, Download, FileHeart, FileText, Printer, Search } from 'lucide-react';
 import { useCallback, useState } from 'react';
 import { portalApi } from '../api';
+import { isDemoSession } from '../demo';
+import { PublishedResultsPage, PublishedPdfModal } from './published-results';
 import { Modal } from '../components/modal';
 import { Alert, EmptyState, PageError, PageLoading, PageTitle, ResultsTable } from '../components/shared';
 import { dateTime, shortDate } from '../format';
@@ -9,7 +11,7 @@ import { downloadFile, recordDate, resultKey, resultTimestamp } from '../record-
 import { reportModel } from '../report-model';
 import type { DiagnosticResult, PatientProfile, ResultDetails } from '../types';
 
-export function ResultsPage({ token, patient }: { token: string; patient: PatientProfile }) {
+function LegacyResultsPage({ token, patient }: { token: string; patient: PatientProfile }) {
   const state = useLoad(useCallback(() => portalApi.getResults(token), [token]));
   const [query, setQuery] = useState('');
   const [department, setDepartment] = useState('all');
@@ -48,7 +50,7 @@ export function ResultsPage({ token, patient }: { token: string; patient: Patien
   </div>;
 }
 
-export function ResultModal({ token, patient, result, onClose }: {
+function LegacyResultModal({ token, patient, result, onClose }: {
   token: string; patient: PatientProfile; result: DiagnosticResult; onClose: () => void;
 }) {
   const state = useLoad(useCallback(() => portalApi.getResultDetails(token, result.departmentCode, result.examinationId), [token, result.departmentCode, result.examinationId]));
@@ -90,4 +92,15 @@ function ResultDocument({ result }: { result: ResultDetails }) {
       <dl className="report-reading-fields">{reading.fields.map((field) => <div key={field.label}><dt>{field.label}</dt><dd>{field.value || 'Not recorded'}</dd></div>)}</dl>
     </section>)}
   </div>;
+}
+
+export function ResultsPage(props: { token: string; patient: PatientProfile }) {
+  const [selected, setSelected] = useState<DiagnosticResult | null>(null);
+  return isDemoSession(props.token) ? <LegacyResultsPage {...props} /> : <>
+    <PublishedResultsPage token={props.token} onOpen={setSelected} />
+    {selected && <ResultModal key={resultKey(selected)} {...props} result={selected} onClose={() => setSelected(null)} />}
+  </>;
+}
+export function ResultModal(props: { token: string; patient: PatientProfile; result: DiagnosticResult; onClose: () => void }) {
+  return props.result.onlineResultId ? <PublishedPdfModal {...props} resultId={props.result.onlineResultId} /> : <LegacyResultModal {...props} />;
 }

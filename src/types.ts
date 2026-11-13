@@ -49,6 +49,7 @@ export type Appointment = {
 }
 
 export type DiagnosticResult = {
+  onlineResultId?: number | null;
   examinationId: number
   departmentCode: string
   department: string

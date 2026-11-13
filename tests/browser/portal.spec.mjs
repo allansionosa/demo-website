@@ -41,6 +41,13 @@ async function setup(page, options = {}) {
     if (path === 'auth/forgot-password') return route.fulfill({ json: { message: 'Mock reset response.' } });
     if (path === 'appointments') return route.fulfill({ json: options.appointments || appointments });
     if (path === 'results') return route.fulfill({ json: options.results || results });
+    if (path === 'results/published') {
+      const search = (url.searchParams.get('search') || '').toLowerCase(), department = url.searchParams.get('department') || '';
+      const from = url.searchParams.get('from') || '', to = url.searchParams.get('to') || '';
+      const filtered = (options.results || results).filter(r => (!search || (r.description + ' ' + r.department + ' ' + r.examinationNo).toLowerCase().includes(search)) && (!department || r.departmentCode === department) && (!from || r.validatedDate.slice(0, 10) >= from) && (!to || r.validatedDate.slice(0, 10) <= to));
+      filtered.sort((a,b) => (url.searchParams.get('sort') === 'oldest' ? 1 : -1) * a.validatedDate.localeCompare(b.validatedDate));
+      return route.fulfill({ json: { items: filtered, totalCount: filtered.length, page: 1, pageSize: 50 } });
+    }
     if (path === 'results/LAB/10') return route.fulfill({ json: laboratory });
     if (path === 'results/XRA/20') return route.fulfill({ json: imaging });
     if (path === 'dashboard') return route.fulfill({ json: dashboard });
@@ -269,7 +276,7 @@ test('a previous token’s unauthorized response cannot clear the current sessio
 test('failed results can retry and genuine empty records are distinguished from search misses', async ({ page }) => {
   await setup(page, { results: [] });
   let failed = true;
-  await page.route('**/api/patient-portal/results', (route) => route.fulfill(failed ? { status: 503, json: { message: 'Mock service unavailable' } } : { json: [] }));
+  await page.route('**/api/patient-portal/results/published*', (route) => route.fulfill(failed ? { status: 503, json: { message: 'Mock service unavailable' } } : { json: { items: [], totalCount: 0, page: 1, pageSize: 50 } }));
   await page.goto('/#/results');
   await expect(page.getByRole('heading', { name: 'We couldn’t load this information' })).toBeVisible();
   failed = false;
