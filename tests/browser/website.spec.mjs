@@ -186,7 +186,8 @@ test('public pages, menus, and demo booking fit a mobile viewport', async ({ pag
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth), route).toBe(true);
   }
   await enterDemo(page);
-  await page.goto('/#/book');
+  await page.goto('/');
+  await page.getByRole('button', { name: 'Book an appointment', exact: true }).click();
   const dialog = page.getByRole('dialog');
   await expect(dialog.getByRole('heading', { name: 'Plan a demo visit' })).toBeVisible();
   expect(await dialog.evaluate((element) => element.scrollWidth <= element.clientWidth)).toBe(true);
